@@ -1,3 +1,7 @@
 {
-	"esversion": 6
+	//"esversion": 6,
+	"ignoreDelimiters": [
+		{ "start": "start-non-standard", "end": "end-non-standard" }
+	],
+	"esnext": true
 }
